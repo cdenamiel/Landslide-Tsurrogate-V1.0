@@ -212,7 +212,7 @@ end
 function sensi = surrogate_model_gauss_patterson_psa_sensi(coeff,maxdeg)
 %% Sensitivity study from Pseudo Spectral Approximation method
 % based on: 
-% (1) Blatman & S. (2010): Sobol decomposition from PC expansions 
+% (1) Blatman & S. (2010): Sobol decomposition from PC expansions 
 %--------------------------------------------------------------------------
 % Input:
 %-------
