@@ -4,9 +4,9 @@
 **email (institutional)**: cdenami@irb.hr <br>
 **email (permanent)**: clea.denamiel@live.fr <br>
 
-The project contains three main folders, **Code**, **User_Manual** and **GUI**, that describe, document and share the codes of the Landslide-Tsurrogate v1.0 model.  
+The project contains three main folders, **Codes**, **User_Manual** and **GUI**, that describe, document and share the codes of the Landslide-Tsurrogate v1.0 model.  
 
-## Code
+## Codes
 
 Contains two subfolders with the Landslide-Tsurrogate v1.0 programs and routines written in:
 
