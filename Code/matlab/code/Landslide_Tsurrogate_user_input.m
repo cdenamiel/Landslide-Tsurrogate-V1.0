@@ -49,7 +49,7 @@ b(1) = 8589024.15;
 % uniforme distribution of volume [Mm3]
 a(2) = 1.0;
 b(2) = 200.0;
-% uniforme distribution of angle of friction  [°]
+% uniforme distribution of angle of friction  [Â°]
 a(3) = 4.0;
 b(3) = 12.0;
 
