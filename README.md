@@ -13,7 +13,9 @@ Contains two subfolders with the Landslide-Tsurrogate v1.0 programs and routines
 ### matlab
 ### python
 
-The workflow pipeline of the code is fully described in the associated publication (REFERENCE) and follows the steps:
+Each of these folders conatins three subfolders: **code**, **data** and **results**. 
+
+The code folder contains the main Landslide_Tsurrogate programs. The workflow pipeline of the code is fully described in the associated publication (REFERENCE) and follows the steps below:
 
 **STEP 1**: Edit and run Landslide_Tsurrogate_user_input to generate the file: ../results/output_users.mat <br>
 **STEP 2**: Run Landslide_Tsurrogate_input_parameters to generate the file: ../results/output_param.mat <br>
@@ -26,6 +28,8 @@ The workflow pipeline of the code is fully described in the associated publicati
 **STEP 4**: Run Landslide_Tsurrogate_format_input to generate the file: ../results/output_model.mat <br>
 **STEP 5**: Run Landslide_Tsurrogate_psa_coefficients to generate the file: ../results/output_coeff.mat <br>
 **STEP 6**: Run Landslide_Tsurrogate_surrogate_models to generate the file: ../results/output_PTHA.mat <br>
+
+All these steps can be run with the provided files in the data folder (one should be downloaded separately see Code/matlab/data/README.md or Code/python/data/README.md) for the Mayotte test case. The results will be created in the results folder.
 
 ## User Manual
 
