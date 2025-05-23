@@ -98,7 +98,7 @@ disp(' ')
 end
 
 function evals = surrogate_model_gauss_patterson_psa_evals(param,model,coeff,a,b,maxdeg)
-%% Error of Pseudo Spectral Approximation with Gauss-Patterson Sparse grids 
+%% Error of Pseudo Spectral Approximation with Gauss-Patterson Sparse grids
 % based on:
 % (1) Florian Heiss, Viktor Winschel (2008): "Likelihood approximation by 
 % numerical integration on sparse grids".Journal of Econometrics,
