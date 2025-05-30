@@ -8,6 +8,8 @@ The project contains three main folders, **Code**, **User_Manual** and **GUI**, 
 
 ![fig03_150](https://github.com/user-attachments/assets/bdc6cbc8-ddab-4e7b-8fc5-33c9a4c7adcc)
 
+<img src="https://github.com/user-attachments/assets/bdc6cbc8-ddab-4e7b-8fc5-33c9a4c7adcc" width="100" height="100"/>
+
 ## Code
 
 Contains two subfolders with the Landslide-Tsurrogate v1.0 programs and routines written in:
