@@ -6,8 +6,6 @@
 
 The project contains three main folders, **Code**, **User_Manual** and **GUI**, that describe, document and share the codes of the Landslide-Tsurrogate v1.0 model.  
 
-<img src="https://github.com/user-attachments/assets/bdc6cbc8-ddab-4e7b-8fc5-33c9a4c7adcc" width="300" height="300"/>
-
 ## Code
 
 Contains two subfolders with the Landslide-Tsurrogate v1.0 programs and routines written in:
@@ -16,6 +14,8 @@ Contains two subfolders with the Landslide-Tsurrogate v1.0 programs and routines
 ### python
 
 Each of these folders conatins three subfolders: **code**, **data** and **results**. 
+
+<img src="https://github.com/user-attachments/assets/bdc6cbc8-ddab-4e7b-8fc5-33c9a4c7adcc" width="300" height="300"/>
 
 The code folder contains the main Landslide_Tsurrogate programs. The workflow pipeline of the code is fully described in the associated publication (REFERENCE) and follows the steps below:
 
