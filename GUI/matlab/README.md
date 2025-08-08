@@ -1,55 +1,18 @@
-MATLAB Compiler
+# MATLAB GUI for Mayotte Landslide-Tsurrogate
 
-1. Prerequisites for Deployment 
+**Contact**: Clea Denamiel <br>
+**email (institutional)**: cdenami@irb.hr <br>
+**email (permanent)**: clea.denamiel@live.fr <br>
 
-. Verify the MATLAB Runtime is installed and ensure you    
-  have installed version 9.0.1 (R2016a).   
+## Windows OS Installer
 
-. If the MATLAB Runtime is not installed, do the following:
-  (1) enter
-  
-      >>mcrinstaller
-      
-      at MATLAB prompt. The MCRINSTALLER command displays the 
-      location of the MATLAB Runtime installer.
+For Windows OS users that do not want to install or use Matlab, the installer can be download from:
 
-  (2) run the MATLAB Runtime installer.
+https://drive.google.com/file/d/1a9cKjNPw0k2zjaF-pcJ7E1KEJXrfSidw/view?usp=sharing
 
-Or download the Windows 64-bit version of the MATLAB Runtime for R2016a 
-from the MathWorks Web site by navigating to
+## Code
 
-   http://www.mathworks.com/products/compiler/mcr/index.html
-   
-   
-For more information about the MATLAB Runtime and the MATLAB Runtime installer, see 
-Package and Distribute in the MATLAB Compiler documentation  
-in the MathWorks Documentation Center.    
-
-
-NOTE: You will need administrator rights to run MCRInstaller. 
-
-
-2. Files to Deploy and Package
-
-Files to package for Standalone 
-================================
--mayotte_landslide_tsunami_surrogate_model.exe
--MCRInstaller.exe 
-   -if end users are unable to download the MATLAB Runtime using the above  
-    link, include it when building your component by clicking 
-    the "Runtime downloaded from web" link in the Deployment Tool
--This readme file 
-
-3. Definitions
-
-For information on deployment terminology, go to 
-http://www.mathworks.com/help. Select MATLAB Compiler >   
-Getting Started > About Application Deployment > 
-Deployment Product Terms in the MathWorks Documentation 
-Center.
-
-
-
-
-
-
+For users familiar with Matlab, the Interface code is also available as the zip file: matlab_interface.zip. 
+This zip file contains three subfolders: **code**, **data** and **results**.
+Once you unziped the file, to run the interface, just go to code and run:  mayotte_landslide_tsunami_surrogate_model.m
+The results will be saved in the results subfolder. 
