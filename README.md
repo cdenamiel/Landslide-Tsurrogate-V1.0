@@ -14,21 +14,22 @@ Each of these folders conatins three subfolders: **code**, **data** and **result
 
 <img src="https://github.com/user-attachments/assets/bdc6cbc8-ddab-4e7b-8fc5-33c9a4c7adcc" width="300" height="300"/><br>
 
-The code folder contains the main Landslide_Tsurrogate programs. The workflow pipeline of the code is fully described in the associated publication (REFERENCE) and follows the steps below:
+The code folder contains the main Landslide_Tsurrogate programs. The workflow pipeline of the code is fully described in the associated publication (provide article draft: Landslide_Tsurrogate_v1.0.pdf) and follows the steps below:
 
-**STEP 1**: Edit and run Landslide_Tsurrogate_user_input to generate the file: ../results/output_users.mat <br>
-**STEP 2**: Run Landslide_Tsurrogate_input_parameters to generate the file: ../results/output_param.mat <br>
+**STEP 1**: Edit and run Landslide_Tsurrogate_step_1_user_input to generate the file: ../results/output_users.mat <br>
+**STEP 2**: Run Landslide_Tsurrogate_step_2_input_parameters to generate the file: ../results/output_param.mat <br>
 **STEP 3**: <br>
 * Run the deterministic simulations outside Landslide-Tsurrogate v1.0 and generate: ../data/input_simus.mat <br>
   input_simus.mat: contains zeta_max_surf[nsim,nx,ny] (maximum elevation), velo_max_surf[nsim,nx,ny] (maximum speed) and time_max_surf[nsim,nx,ny] (time of arrival) with nsim the total number of simulations corresponding to the maximum total order and [nx,ny] the spatial dimensions of the domain used to perform the deterministic simulations. <br>
 *    Prepare the locations where to create the surrogates and generate: ../data/surrogate_models_locations.mat <br>
      surrogate_models_locations.mat: contains index_coast[nl] the indices where to build the surrogate models  with nl the number of surrogate models to build <br>
 
-**STEP 4**: Run Landslide_Tsurrogate_format_input to generate the file: ../results/output_model.mat <br>
-**STEP 5**: Run Landslide_Tsurrogate_psa_coefficients to generate the file: ../results/output_coeff.mat <br>
-**STEP 6**: Run Landslide_Tsurrogate_surrogate_models to generate the file: ../results/output_PTHA.mat <br>
+**STEP 4**: Run Landslide_Tsurrogate_step_4_format_input to generate the file: ../results/output_model.mat <br>
+**STEP 5**: Run Landslide_Tsurrogate_step_5_coefficients to generate the file: ../results/output_coeff.mat <br>
+**STEP 6**: Run Landslide_Tsurrogate_step_6_evaluation to generate the files: ../results/output_evals.mat and ../results/output_sensi.mat  <br>
+**STEP 7**: Run Landslide_Tsurrogate_step_7_PTHA to generate the file: ../results/output_PTHA.mat <br>
 
-All these steps can be run with the provided files in the data folder (one should be downloaded separately see Code/matlab/data/README.md or Code/python/data/README.md) for the Mayotte test case. The results will be created in the results folder.
+All these steps can be run with the provided files in the data folder. One of these files should be downloaded separately see Code/matlab/data/README.md or Code/python/data/README.md for the Mayotte test case. The results will be created in the results folder.
 
 ## User Manual
 
