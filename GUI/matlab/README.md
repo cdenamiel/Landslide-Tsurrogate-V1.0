@@ -4,17 +4,18 @@
 **email (institutional)**: cdenami@irb.hr <br>
 **email (permanent)**: clea.denamiel@live.fr <br>
 
-## Windows OS Installer
+## Windows/Linux/Mac OS Installers
 
-For Windows OS users that do not want to install or use Matlab, the installer can be download from:
+Users with different OS that do not want to install or use Matlab, can instal the interface by downloading the appropriate installer:
 
-https://drive.google.com/file/d/1a9cKjNPw0k2zjaF-pcJ7E1KEJXrfSidw/view?usp=sharing
+*Windows: https://drive.google.com/file/d/1a9cKjNPw0k2zjaF-pcJ7E1KEJXrfSidw/view?usp=sharing
+*Linux:
+*MAC:
 
 ## Code
 
-For users familiar with Matlab, the Interface code is also available as the zip file: matlab_interface.zip. 
-This zip file contains three subfolders: **code**, **data** and **results**.
-Once the file is unziped, dowload extra files in the data folder from the zip file extra_data.zip provided at this link:
+For users familiar with Matlab, the Interface code is also available in the folder program that contains three subfolders: **code**, **data** and **results**.
+Once the folders under program downloaded, dowload extra files in the data folder from the zip file extra_data.zip provided at this link:
 
 https://drive.google.com/file/d/1NSkO9I-AEYsNlh4Rrv8gJBDqixyxBrMn/view?usp=sharing
 
