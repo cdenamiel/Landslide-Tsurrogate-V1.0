@@ -15,9 +15,8 @@ Users with different OS that do not want to install or use Matlab, can instal th
 ## Program
 
 For users familiar with Matlab, the Interface is also available using the three subfolders: **code**, **data** and **results**.
-Once the folders under program downloaded, dowload extra files in the data folder from the zip file tidal_data.zip provided at this link:
 
-
+Once the subfolders downloaded, dowload tidal constituants under data/TMD from the zip file tidal_data.zip provided at this link: https://drive.google.com/file/d/1MhdVq0EFoGYZ_59Lw1Zrow_NGR2hnGxM/view?usp=sharing
 
 To run the interface, just go to code and run:  mayotte_landslide_tsunami_surrogate_model.m
 
