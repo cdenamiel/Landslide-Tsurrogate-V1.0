@@ -12,7 +12,7 @@ Contains two subfolders with the Landslide-Tsurrogate v1.0 programs and routines
 
 Each of these folders conatins three subfolders: **code**, **data** and **results**. 
 
-<img src="https://github.com/user-attachments/assets/bdc6cbc8-ddab-4e7b-8fc5-33c9a4c7adcc" width="300" height="300"/><br>
+<img src="https://github.com/user-attachments/assets/2d911b45-22f9-42e9-9f44-0e20e79eaab4" width="300" height="300"/><br>
 
 The code folder contains the main Landslide_Tsurrogate programs. The workflow pipeline of the code is fully described in the associated publication (provide article draft: Landslide_Tsurrogate_v1.0.pdf) and follows the steps below:
 
