@@ -29,7 +29,9 @@ The code folder contains the main Landslide_Tsurrogate programs. The workflow pi
 **STEP 6**: Run Landslide_Tsurrogate_step_6_evaluation to generate the files: ../results/output_evals.mat and ../results/output_sensi.mat  <br>
 **STEP 7**: Run Landslide_Tsurrogate_step_7_PTHA to generate the file: ../results/output_PTHA.mat <br>
 
-All these steps can be run with the provided files in the data folder. One of these files should be downloaded separately see Code/matlab/data/README.md or Code/python/data/README.md for the Mayotte test case. The results will be created in the results folder.
+All these steps can be run with the provided files for the Mayotte test case: ../data/surrogate_model_locations.mat is already provided and input_simus.mat should be downloaded separately (see Code/matlab/data/README.md or Code/python/data/README.md). 
+
+The results are created in the ../results folder.
 
 ## User Manual
 
