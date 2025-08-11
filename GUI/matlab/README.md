@@ -12,9 +12,9 @@ Users with different OS that do not want to install or use Matlab, can instal th
 - Linux:
 - MAC:
 
-## Code
+## Program
 
-For users familiar with Matlab, the Interface code is also available in the folder program that contains three subfolders: **code**, **data** and **results**.
+For users familiar with Matlab, the Interface is also available using the three subfolders: **code**, **data** and **results**.
 Once the folders under program downloaded, dowload extra files in the data folder from the zip file extra_data.zip provided at this link:
 
 https://drive.google.com/file/d/1NSkO9I-AEYsNlh4Rrv8gJBDqixyxBrMn/view?usp=sharing
