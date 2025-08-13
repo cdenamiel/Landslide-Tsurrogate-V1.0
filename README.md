@@ -14,7 +14,7 @@ Each of these folders conatins three subfolders: **code**, **data** and **result
 
 <img src="https://github.com/user-attachments/assets/2d911b45-22f9-42e9-9f44-0e20e79eaab4" width="300" height="300"/><br>
 
-The code folder contains the main Landslide_Tsurrogate programs. The workflow pipeline of the code is fully described in the associated publication (provide article draft: Landslide_Tsurrogate_v1.0.pdf) and follows the steps below:
+The code folder contains the main Landslide_Tsurrogate programs. The workflow pipeline of the code is fully described in the associated publication (article draft.pdf) and follows the steps below:
 
 **STEP 1**: Edit and run Landslide_Tsurrogate_step_1_user_input to generate the file: ../results/output_users.mat <br>
 **STEP 2**: Run Landslide_Tsurrogate_step_2_input_parameters to generate the file: ../results/output_param.mat <br>
