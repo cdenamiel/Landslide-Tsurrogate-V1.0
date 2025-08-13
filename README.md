@@ -8,7 +8,7 @@ The project contains three main folders, **Code**, **User_Manual** and **GUI**, 
 
 ## Code
 
-Contains two subfolders with the Landslide-Tsurrogate v1.0 programs and routines written in Matlab & python.
+Contains two subfolders with the Landslide-Tsurrogate v1.0 programs and routines written in **Matlab** & **python**.
 
 Each of these folders conatins three subfolders: **code**, **data** and **results**. 
 
