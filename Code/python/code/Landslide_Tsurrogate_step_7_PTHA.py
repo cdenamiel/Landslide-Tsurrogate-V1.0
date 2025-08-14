@@ -104,7 +104,7 @@ def Landslide_Tsurrogate_step_7_PTHA():
 	#--------------------------
 	
 	start = time.time()	
-	PTHA = surrogate_model_gauss_patterson_PTHA(maxdeg0, a, b, coeff, nw0, a0, b0)
+	PTHA_zeta, PTHA_velo, PTHA_time = surrogate_model_gauss_patterson_PTHA(maxdeg0, a, b, coeff, nw0, a0, b0)
 	end = time.time()
 	length = end - start
 	
@@ -113,7 +113,7 @@ def Landslide_Tsurrogate_step_7_PTHA():
 	print("PTHA based on ",nw0," members produced in ",length, "seconds!")
 	print(" ---------------------------------------------------------------")
 	
-	sio.savemat('../results/output_PTHA.mat',{'PTHA': PTHA})
+	sio.savemat('../results/output_PTHA.mat',{'PTHA_zeta': PTHA_zeta,'PTHA_velo': PTHA_velo,'PTHA_time': PTHA_time})
 	
 	print(" ")
 	print("The results have been saved in: ../results/output_PTHA.mat")
