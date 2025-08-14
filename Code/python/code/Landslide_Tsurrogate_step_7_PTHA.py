@@ -43,7 +43,7 @@ print(' ')
 
 def Landslide_Tsurrogate_step_7_PTHA():
 
-        #------------
+    #------------
 	# User Inputs
 	#------------
 
@@ -71,7 +71,7 @@ def Landslide_Tsurrogate_step_7_PTHA():
 	# chosen number of samples for the PTHA
 	nw0 = 1000
 
-        #--------------
+    #--------------
 	# Load the data
 	#--------------
 	
@@ -99,7 +99,7 @@ def Landslide_Tsurrogate_step_7_PTHA():
 	   print("Generate the file as instructed above.")
 	   return
 	   
-        #--------------------------
+    #--------------------------
 	# Generate the PTHA
 	#--------------------------
 	
