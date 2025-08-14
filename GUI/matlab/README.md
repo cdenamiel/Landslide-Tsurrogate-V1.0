@@ -8,7 +8,7 @@
 
 Users with different OS that do not want to install or use Matlab, can instal the interface by downloading the appropriate installer:
 
-- Windows:
+- Windows: https://drive.google.com/file/d/1Yd2zwGBLTqKMUZzFkXwcDPgN6z7c2GXu/view?usp=sharing
 - Linux:
 - MAC:
 
