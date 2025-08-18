@@ -47,3 +47,15 @@ The User Manual consists in:
     * **results**: an empty folder where the results from the JN are copied <br>
 
 ## GUI
+
+Two different GUIs have been developed for the Mayotte test case using either Matlab or python.
+
+### Matlab
+
+Code under GUI/matlab with executables available to download for users not familiar with Matlab.
+
+### Python  
+
+Jupyter Widget Notebook under GUI/python with link to web application provided for users not familiar with python.
+
+
