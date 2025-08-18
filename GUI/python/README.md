@@ -8,6 +8,6 @@
 
 Users not familiar with python, can access the interface at this address:
 
-## Jupyter Widget Notebook
+# Jupyter Widget Notebook
 
 For users familiar with python, the notebook is available. 
