@@ -4,13 +4,11 @@
 **email (institutional)**: cdenami@irb.hr <br>
 **email (permanent)**: clea.denamiel@live.fr <br>
 
-## Windows/Linux/Mac OS Installers
+## Windows OS Installers
 
-Users with different OS that do not want to install or use Matlab, can instal the interface by downloading the appropriate installer:
+Users with Windows OS that do not want to install or use Matlab, can install the interface by downloading the installer:
 
-- Windows: https://drive.google.com/file/d/1Yd2zwGBLTqKMUZzFkXwcDPgN6z7c2GXu/view?usp=sharing
-- Linux:
-- MAC:
+https://drive.google.com/file/d/1Yd2zwGBLTqKMUZzFkXwcDPgN6z7c2GXu/view?usp=sharing
 
 ## Program
 
