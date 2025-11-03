@@ -56,6 +56,6 @@ Code under GUI/matlab with executables available to download for users not famil
 
 ### Python  
 
-Jupyter Widget Notebook under GUI/python with link to web application provided for users not familiar with python.
+Jupyter Widget Notebook under GUI/python with possibility to deploy it as a web app through Voila for users not familiar with python.
 
 
