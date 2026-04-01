@@ -10,9 +10,9 @@ The project contains three main folders, **Code**, **User_Manual** and **GUI**, 
 
 Contains two subfolders with the Landslide-Tsurrogate v1.0 programs and routines written in **Matlab** & **python**.
 
-Each of these folders conatins three subfolders: **code**, **data** and **results**. 
+Each of these folders contains three subfolders: **code**, **data** and **results**. 
 
-<img src="https://github.com/user-attachments/assets/2d911b45-22f9-42e9-9f44-0e20e79eaab4" width="300" height="300"/><br>
+<img src="https://github.com/user-attachments/assets/7d9b0133-236a-4044-8cd0-c3624f3a8400" width="300" height="300"/><br>
 
 The code folder contains the main Landslide_Tsurrogate programs. The workflow pipeline of the code is fully described in the associated publication (article draft.pdf) and follows the steps below:
 
@@ -27,7 +27,7 @@ The code folder contains the main Landslide_Tsurrogate programs. The workflow pi
 **STEP 4**: Run Landslide_Tsurrogate_step_4_format_input to generate the file: ../results/output_model.mat <br>
 **STEP 5**: Run Landslide_Tsurrogate_step_5_coefficients to generate the file: ../results/output_coeff.mat <br>
 **STEP 6**: Run Landslide_Tsurrogate_step_6_evaluation to generate the files: ../results/output_evals.mat and ../results/output_sensi.mat  <br>
-**STEP 7**: Run Landslide_Tsurrogate_step_7_PTHA to generate the file: ../results/output_PTHA.mat <br>
+**STEP 7**: Run Landslide_Tsurrogate_step_7_PTF to generate the file: ../results/output_PTF.mat <br>
 
 All these steps can be run with the provided files for the Mayotte test case: ../data/surrogate_model_locations.mat is already provided and input_simus.mat should be downloaded separately (see Code/matlab/data/README.md or Code/python/data/README.md). 
 
