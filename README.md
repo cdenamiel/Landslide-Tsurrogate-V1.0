@@ -58,4 +58,6 @@ Code under GUI/matlab with executables available to download for users not famil
 
 Jupyter Widget Notebook under GUI/python with possibility to deploy it as a web app through Voila for users not familiar with python.
 
+## Article 
 
+The revised version of the article draft that describes the Landslide-Tsurrogate v1.0 model and has been submitted in GMD as a preprint (https://doi.org/10.5194/egusphere-2025-5671) is also provided as draft_article.pdf. 
